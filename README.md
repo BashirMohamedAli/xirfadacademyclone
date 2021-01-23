@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Xirfad Academy
+<img src='https://github.com/BashirMohamedAli/xirfadacademyclone/blob/main/src/components/img/xirfadacedmy.png' />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
