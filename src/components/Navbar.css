@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left {
+    margin: 30px 0 10px 35px;
+}
+.logo {
+    max-height: 3.1rem;
+    max-width: 100%;
+}
+.btn {
+    background:#14446e;
+    border:none;
+    padding: 0.7rem 1rem;
+    margin-right: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+    color:#fff;
+    font-size: 13px;
+    outline: none;
+    cursor: pointer;
+  }
+  /* end navbar */
+
+.section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:#ffffff;
+}
+.col1 {
+    margin-top: 100px;
+    margin-left: 8.9rem;
+    align-items: center;
+}
+.col1 .launch {
+    max-width: 256px;
+    max-height: 256px;
+}
+.col2 {
+    margin-right: 8rem;
+    margin-top: 5rem;
+}
+.col2 h1 {
+    font-size: 2.3rem;
+    font-family: inherit;
+    line-height: 1.25;
+    color: #36434d;
+}
+.col2 p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #5e6971;
+    line-height: 2;
+}
